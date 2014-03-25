@@ -3,8 +3,8 @@ Automated WiFi Anonymizer
 
 Automated WiFi Anonymizer randomizes the MAC address of your wireless device before establishing a connection to an access point and after disconnecting to enhance your anonymity and avoid being tracked. Requires rooted device.
 
-![Automated WiFi Anonymizer](resources/awa1.png)
-![Automated WiFi Anonymizer](resources/awa2.png)
+![Automated WiFi Anonymizer](resources/awa1_small.png)
+![Automated WiFi Anonymizer](resources/awa2_small.png)
 
 
 Setup

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WifiAnonymizer</string>
+    <string name="action_settings">Settings</string>
+    <string name="SuperCow">Super Cow Powers</string>
+    <string name="backup">Original Mac Address</string>
+    <string name="currentmac">Current Mac Address</string>
+    <string name="randomize">Randomize Mac</string>
+    <string name="restore">Restore Mac</string>
+    <string name="inface">Interface Name</string>
+    <string name="defaultIface">wlan0</string>
+    <string name="interfacehint">Name of the interface</string>
+    
+</resources>

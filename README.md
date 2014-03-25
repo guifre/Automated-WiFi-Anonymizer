@@ -1,7 +1,7 @@
 Automated WiFi Anonymizer
 =========================
 
-Automated WiFi Anonymizer randomizes the MAC address of your wireless device before establishing a connection to an access point and after disconnecting to enhance your anonymity and avoid being tracked. Requires rooted device.
+Automated WiFi Anonymizer is an Android application that randomizes the MAC address of your wireless device. This action is carried out before establishing a connection to an access point and after disconnecting to enhance your anonymity and avoid being tracked. Requires rooted device.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Automated WiFi Anonymizer](https://raw.githubusercontent.com/guifre/Automated-WiFi-Anonymizer/master/resources/awa1_small.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Automated WiFi Anonymizer](https://raw.githubusercontent.com/guifre/Automated-WiFi-Anonymizer/master/resources/awa2_small.png)
